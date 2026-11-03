@@ -42,4 +42,3 @@ Catálogo de séries da TVMaze com login real (Supabase Auth), favoritos e séri
 ## Executar no navegador
 
 Execute `npx expo start --web`. A versão Android pode ser aberta pelo Expo Go com `npx expo start`.
-
